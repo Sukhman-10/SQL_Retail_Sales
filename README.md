@@ -1,6 +1,6 @@
 # Retail Sales Data Analysis Project (SQL) 
 
-1. Project Objective 
+# 1. Project Objective 
 The objective of this project is to analyze retail sales data using SQL. The dataset contains sales 
 transactions with details such as date, time, customer info, category, price, and quantity. The project 
 includes:
